@@ -8,4 +8,4 @@ Naive Bayes
 kNN (Euclidean distance)
 kNN (Hamming distance)
 
-Best results were achieved with random forest model (see the slides in the repo)
+Best results were achieved with random forest model (see the slides in the repo). Evaluation is done by cross-validation (details are in slides).
